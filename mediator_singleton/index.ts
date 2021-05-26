@@ -95,7 +95,7 @@ const chat = () => {
     someoneSendMessage(Mikkey, 'addBot');
     someoneSendMessage(Charley, 'U don\'t like cat?' );
     someoneSendMessage(Mikkey, 'no, i dont');
-    someoneSendMessage(Kseniya, 'nu ti i pidor, ya ebu');
+    someoneSendMessage(Kseniya, 'U dont good guy');
     someoneSendMessage(Kseniya, 'removeBot');
 
 }
